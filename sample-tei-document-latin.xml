@@ -27,11 +27,11 @@
         <s n="10">Fusce nec ultrices enim.</s>
         <s n="11">Cras dignissim convallis mi.</s>
       </p>
-      <p n="2">
-        <s n="12">Sed vitae aliquet tellus.</s>
-        <s n="13">Maecenas eget orci nec elit efficitur rutrum ac vitae enim.</s>
-        <s n="14">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque ullamcorper porttitor est a malesuada.</s>
-        <quote rend="blockquote">
+      <quote rend="blockquote">
+        <p n="2">
+          <s n="12">Sed vitae aliquet tellus.</s>
+          <s n="13">Maecenas eget orci nec elit efficitur rutrum ac vitae enim.</s>
+          <s n="14">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque ullamcorper porttitor est a malesuada.</s>
           <s n="15">Nullam scelerisque pulvinar risus a elementum.</s>
           <s n="16">Praesent eleifend ligula odio, non ultricies tortor scelerisque id.</s>
           <s n="17">Nulla augue tortor, venenatis pretium elementum vitae, ullamcorper ac sem.</s>
@@ -39,10 +39,10 @@
           <s n="19">Etiam dictum ligula non rhoncus placerat.</s>
           <s n="20">Pellentesque nibh augue, bibendum sit amet leo ut, ornare sollicitudin est.</s>
           <s n="21">Sed tellus orci, posuere et ultrices ut, fermentum non nisi.</s>
-        </quote> 
-        <s n="22">Integer lobortis justo a leo elementum, ut sagittis lorem suscipit.</s>
-        <s n="23">Aliquam semper orci mauris, et hendrerit est vulputate eu.</s>
-      </p>
+          <s n="22">Integer lobortis justo a leo elementum, ut sagittis lorem suscipit.</s>
+          <s n="23">Aliquam semper orci mauris, et hendrerit est vulputate eu.</s>
+        </p>
+      </quote> 
       <p n="3">
         <s n="24">Sed mollis mi nec suscipit hendrerit.</s>
         <s n="25">Praesent velit orci, facilisis ultricies ultricies ac, varius vitae arcu.</s>
