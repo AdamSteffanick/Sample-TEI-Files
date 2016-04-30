@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>A section of "de Finibus Bonorum et Malorum" marked up semi-arbitrarily with TEI.</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>In the public domain</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Cicero, 45 BC</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p n="1">
+        <s n="1">Lorem ipsum dolor sit amet, consectetur adipiscing <q>elit</q>.</s>
+        <s n="2">Vestibulum nec lorem vitae dui varius <hi rend="italic">gravida</hi>.</s>
+        <s n="3">Cras eget tristique <hi rend="bold">eros</hi>, id ultrices eros. Mauris nec turpis elit.</s>
+        <s n="4">In tincidunt eget ante quis semper.</s>
+        <s n="5">Praesent a mi et nisi ullamcorper feugiat nec non ipsum.</s>
+        <s n="6">Ut malesuada finibus lorem nec gravida.</s>
+        <s n="7">Praesent lobortis magna sed scelerisque molestie.</s>
+        <s n="8">Aenean nec sapien quis quam commodo aliquam et et lorem.</s>
+        <s n="9">Quisque commodo blandit neque quis scelerisque.</s>
+        <s n="10">Fusce nec ultrices enim.</s>
+        <s n="11">Cras dignissim convallis mi.</s>
+      </p>
+      <p n="2">
+        <s n="12">Sed vitae aliquet tellus.</s>
+        <s n="13">Maecenas eget orci nec elit efficitur rutrum ac vitae enim.</s>
+        <s n="14">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque ullamcorper porttitor est a malesuada.</s>
+        <quote rend="blockquote">
+          <s n="15">Nullam scelerisque pulvinar risus a elementum.</s>
+          <s n="16">Praesent eleifend ligula odio, non ultricies tortor scelerisque id.</s>
+          <s n="17">Nulla augue tortor, venenatis pretium elementum vitae, ullamcorper ac sem.</s>
+          <s n="18">Duis at nibh nisl.</s>
+          <s n="19">Etiam dictum ligula non rhoncus placerat.</s>
+          <s n="20">Pellentesque nibh augue, bibendum sit amet leo ut, ornare sollicitudin est.</s>
+          <s n="21">Sed tellus orci, posuere et ultrices ut, fermentum non nisi.</s>
+        </quote> 
+        <s n="22">Integer lobortis justo a leo elementum, ut sagittis lorem suscipit.</s>
+        <s n="23">Aliquam semper orci mauris, et hendrerit est vulputate eu.</s>
+      </p>
+      <p n="3">
+        <s n="24">Sed mollis mi nec suscipit hendrerit.</s>
+        <s n="25">Praesent velit orci, facilisis ultricies ultricies ac, varius vitae arcu.</s>
+        <s n="26">Cras aliquam posuere turpis a aliquam.</s>
+        <s n="27">Nunc id suscipit ex.</s>
+        <s n="28">Curabitur posuere tincidunt neque in hendrerit.</s>
+        <s n="29">Aenean ac malesuada nulla.</s>
+        <s n="30">Ut eleifend porttitor accumsan.</s>
+        <s n="31">Phasellus eros risus, imperdiet quis elit eget, ultricies rhoncus ex.</s>
+        <s n="32">Quisque purus quam, <quote>luctus sit amet imperdiet id,</quote> cursus eget dolor.</s>
+        <s n="33">Fusce fermentum convallis gravida.</s>
+        <s n="34">Etiam nulla lorem, vehicula ac augue ullamcorper, convallis tincidunt erat.</s>
+        <s n="35">Nam maximus et metus placerat interdum.</s>
+      </p>
+    </body>
+  </text>
+</TEI>
