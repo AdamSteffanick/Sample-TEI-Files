@@ -1,4 +1,6 @@
 # Sample TEI XML Files
 
-##Sample TEI XML files for testing.
+This repository contains sample TEI(http://www.tei-c.org/index.xml) XML files.
+
+## Files
 * sample-tei-xml-document-latin.xml (mixed-content)
