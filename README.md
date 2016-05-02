@@ -1,2 +1,4 @@
-# Sample-TEI-Files
-Sample TEI files for testing.
+# Sample TEI XML Files
+
+##Sample TEI XML files for testing.
+* sample-tei-xml-document-latin.xml (mixed-content)
