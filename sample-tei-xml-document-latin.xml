@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>A section of "de Finibus Bonorum et Malorum" marked up semi-arbitrarily with TEI.</title>
+        <title>A section of "de Finibus Bonorum et Malorum" marked up semi-arbitrarily in TEI XML.</title>
       </titleStmt>
       <publicationStmt>
         <p>In the public domain</p>
@@ -11,6 +11,11 @@
         <p>Cicero, 45 BC</p>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="la">Latin</language>
+      </langUsage>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>
